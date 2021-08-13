@@ -1,3 +1,11 @@
+# OSX
+
+.DS_Store
+
+# Robot Framework
+reports/
+selenium-screenshot*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
