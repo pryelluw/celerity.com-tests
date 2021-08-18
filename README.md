@@ -29,6 +29,8 @@ pip install webdrivermanager
 webdrivermanager firefox --linkpath /usr/local/bin
 ```
 
+Same for Chrome!
+
 # Run
 
 `robot celerity_tests --argumentfile=arguments.robot` will invoke all tests inside the directory with the default configuration provided

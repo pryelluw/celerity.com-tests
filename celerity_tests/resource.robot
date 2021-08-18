@@ -7,5 +7,6 @@ Library           BuiltIn
 
 *** Variables ***
 ${SERVER}         www.celerity.com
-${BROWSER}        HeadlessFirefox
+${HEADLESS FIREFOX}        HeadlessFireFox
+${HEADLESS CHROME}         HeadlessChrome
 ${DELAY}          0
